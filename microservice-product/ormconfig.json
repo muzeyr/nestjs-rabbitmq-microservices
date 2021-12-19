@@ -1,0 +1,11 @@
+{
+  "type": "mysql",
+  "host": "85.95.237.110",
+  "port": 3306,
+  "username": "egitimbu_nest",
+  "password": "GMkuIxkV=XQl",
+  "database": "egitimbu_nest",
+  "entities": ["dist/**/**.entity{.ts,.js}"],
+  "synchronize": true,
+  "autoLoadEntities": true
+}     
